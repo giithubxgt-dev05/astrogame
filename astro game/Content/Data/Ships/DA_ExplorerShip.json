@@ -1,0 +1,24 @@
+{
+  "ShipID": "ExplorerShip_Mk1",
+  "DisplayName": "Explorer Mk.I",
+  "ShipClass": "Explorer",
+  "MaxFuelKg": 5000,
+  "ThrustKN": 450,
+  "MaxSpeedAtmo": 800,
+  "MaxSpeedVacuum": 15000,
+  "MaxCargo": 500,
+  "HullIntegrity": 100,
+  "ShieldStrength": 50,
+  "LifeSupportCapacity": 2,
+  "SensorRange": 50,
+  "HeatShieldRating": 0.7,
+  "CreditCost": 25000,
+  "RequiredMission": "COSMOS_INTRO_02",
+  "UpgradeSlots": [
+    "Engine",
+    "Fuel",
+    "Shield",
+    "Cargo",
+    "Sensor"
+  ]
+}

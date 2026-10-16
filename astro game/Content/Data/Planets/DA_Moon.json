@@ -1,0 +1,38 @@
+{
+  "PlanetID": "Moon",
+  "DisplayName": "The Moon",
+  "GravityMS2": 1.62,
+  "AtmosphereDensityKgM3": 0.0,
+  "SurfacePressureKPa": 0.0,
+  "AvgTemperatureCelsius": -53,
+  "MinTemp": -173,
+  "MaxTemp": 127,
+  "DayLengthHours": 655.7,
+  "RadiusKm": 1737.4,
+  "bHasAtmosphere": false,
+  "bIsGasGiant": false,
+  "bHasWeather": false,
+  "Hazards": [
+    "Vacuum(critical)",
+    "Radiation(moderate)",
+    "ExtremeTemperature(high)"
+  ],
+  "Resources": [
+    "Regolith",
+    "Helium3",
+    "Titanium",
+    "IceTraces",
+    "RareMinerals"
+  ],
+  "TerrainStyle": "CrateredHighlands",
+  "TerrainSeedOffset": 42001,
+  "AmbientLightIntensity": 0.08,
+  "SkyLightColor": [
+    0.05,
+    0.05,
+    0.08
+  ],
+  "SunAngularSize": 0.53,
+  "bHasRings": false,
+  "ColorGrade": "cold_neutral"
+}

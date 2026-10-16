@@ -1,0 +1,42 @@
+{
+  "PlanetID": "Earth",
+  "DisplayName": "Earth",
+  "GravityMS2": 9.81,
+  "AtmosphereDensityKgM3": 1.225,
+  "SurfacePressureKPa": 101.325,
+  "AvgTemperatureCelsius": 15,
+  "MinTemp": -89,
+  "MaxTemp": 58,
+  "DayLengthHours": 24,
+  "RadiusKm": 6371,
+  "bHasAtmosphere": true,
+  "bIsGasGiant": false,
+  "bHasWeather": true,
+  "ActiveWeatherTypes": [
+    "Rain",
+    "Snow",
+    "Thunderstorm",
+    "Fog"
+  ],
+  "Hazards": [
+    "None"
+  ],
+  "Resources": [
+    "Water",
+    "Iron",
+    "Coal",
+    "RareMinerals",
+    "Silicates"
+  ],
+  "TerrainStyle": "EarthLike",
+  "TerrainSeedOffset": 10000,
+  "AmbientLightIntensity": 1.0,
+  "SkyLightColor": [
+    0.52,
+    0.80,
+    1.0
+  ],
+  "SunAngularSize": 0.53,
+  "bHasRings": false,
+  "ColorGrade": "warm_natural"
+}

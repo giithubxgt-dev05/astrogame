@@ -1,0 +1,33 @@
+{
+  "PlanetID": "Mars",
+  "GravityMS2": 3.71,
+  "AtmosphereDensityKgM3": 0.020,
+  "SurfacePressureKPa": 0.6,
+  "AvgTemperatureCelsius": -60,
+  "MinTemp": -125,
+  "MaxTemp": 20,
+  "DayLengthHours": 24.6,
+  "RadiusKm": 3389.5,
+  "bHasAtmosphere": true,
+  "bHasWeather": true,
+  "ActiveWeatherTypes": [
+    "DustStorm",
+    "Fog"
+  ],
+  "Hazards": [
+    "LowPressure(high)",
+    "Radiation(moderate)",
+    "DustStorm(variable)",
+    "Cold(high)"
+  ],
+  "Resources": [
+    "Iron",
+    "WaterIce",
+    "Silicates",
+    "Perchlorates",
+    "RareMinerals"
+  ],
+  "TerrainStyle": "DesertPlains",
+  "TerrainSeedOffset": 31415,
+  "ColorGrade": "rusty_orange"
+}
